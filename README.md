@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Roy Levy, and I am a CS student at Bar-Ilan University.
+I really love coding and am currently working on some cool projects.
+LinkedIn: https://www.linkedin.com/in/royzlevy/
 
 <!--
 **RoyzLevy/RoyzLevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
