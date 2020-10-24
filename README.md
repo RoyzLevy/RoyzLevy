@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey!👋
 My name is Roy Levy, and I'm a CS student at Bar-Ilan University.
 I really love coding and currently working on some cool projects.
 LinkedIn: https://www.linkedin.com/in/royzlevy/
