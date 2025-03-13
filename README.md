@@ -1,5 +1,6 @@
 ### Hey!👋
-My name is Roy Levy, and I work in the DevOps world.
+My name is Roy Levy and I work in the DevOps world.
+
 I really love coding and working on cool projects.
 
 LinkedIn: https://www.linkedin.com/in/royzlevy/
